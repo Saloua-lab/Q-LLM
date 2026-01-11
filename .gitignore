@@ -1,13 +1,7 @@
 __pycache__/
 .ipynb_checkpoints/
-*.zip
-*.pt
-*.bin
-*.ckpt
-*.log
 .env
 .venv/
 models/
-ml-latest/
-ml-latest-small/
-data_movielens/
+*.pt
+*.bin
