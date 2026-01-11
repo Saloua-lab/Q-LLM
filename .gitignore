@@ -1,7 +1,14 @@
 __pycache__/
 .ipynb_checkpoints/
+*.zip
+*.pt
+*.bin
+*.ckpt
+*.log
 .env
 .venv/
 models/
-*.pt
-*.bin
+ml-latest/
+ml-latest-small/
+data_movielens/
+all_reviews_filtered.csv
